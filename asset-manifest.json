@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/router-band-landing-page/static/css/main.073c9b0a.css",
+    "main.js": "/router-band-landing-page/static/js/main.83f58e22.js",
+    "static/js/787.c553746d.chunk.js": "/router-band-landing-page/static/js/787.c553746d.chunk.js",
+    "static/media/drums.jpg": "/router-band-landing-page/static/media/drums.cf1b0fd7d1e73454db9c.jpg",
+    "static/media/bass.jpg": "/router-band-landing-page/static/media/bass.a6e00c22c49050635b9f.jpg",
+    "static/media/guitar.jpg": "/router-band-landing-page/static/media/guitar.2743614ccc62e38df0a9.jpg",
+    "static/media/music-band.jpg": "/router-band-landing-page/static/media/music-band.94b95129e267aec82ac2.jpg",
+    "static/media/vocals.jpg": "/router-band-landing-page/static/media/vocals.0e41ab492b94f1da86f0.jpg",
+    "index.html": "/router-band-landing-page/index.html",
+    "main.073c9b0a.css.map": "/router-band-landing-page/static/css/main.073c9b0a.css.map",
+    "main.83f58e22.js.map": "/router-band-landing-page/static/js/main.83f58e22.js.map",
+    "787.c553746d.chunk.js.map": "/router-band-landing-page/static/js/787.c553746d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.83f58e22.js"
+  ]
+}
